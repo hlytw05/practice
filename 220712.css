@@ -1,0 +1,63 @@
+body, h1, h2{
+    margin:0px;
+    padding: 0px;
+}
+
+/* .font1{
+    text-align: right;
+}
+
+.font2{
+    text-align: right;
+} */
+
+.school-number{
+    color: #7c7c7c;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.mainbox{
+    width:610px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    margin: 30px;
+    text-align: left;
+}
+
+body{
+    min-width:fit-content;
+}
+
+h2{
+    border-bottom: 1px solid #000000;
+    margin-bottom: 16px;
+    padding-bottom: 5px;
+}
+
+section{
+    margin-bottom:24px;
+}
+
+.title-text{
+    float: left;
+}
+
+.year-text{
+    float: right;
+}
+
+.experiencefloat{
+    overflow: hidden;
+}
+
+footer{
+    width: 610px;
+    height:150px;
+    background-color: #000000;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+    bottom:0;
+}
